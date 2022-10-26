@@ -7,7 +7,7 @@ description = "Base31 encoding and decoding, useful to represent large integers 
 readme = "readme.md"
 repository = "https://github.com/btittelbach/base31-rust/"
 license-file = "LICENSE"
-keywords = ["base31", "encoding", "decode", "serialization", "rust", "library", "bytes"]
+keywords = ["base31", "encoding", "decode", "serialization"]
 categories = ["encoding"]
 
 
