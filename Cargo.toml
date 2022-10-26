@@ -2,6 +2,14 @@
 name = "base31"
 version = "0.1.0"
 edition = "2021"
+authors = ["Bernhard Tittelbach"]
+description = "Base31 encoding and decoding, useful to represent large integers in a short, case-insensitive, hard-to-misread format."
+readme = "readme.md"
+repository = "https://github.com/btittelbach/base31-rust/"
+license-file = "LICENSE"
+keywords = ["base31", "encoding", "decode", "serialization", "rust", "library", "bytes"]
+categories = ["encoding"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
